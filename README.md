@@ -83,6 +83,10 @@ Install dependencies before running the notebook:
 
 - Matplotlib, Seaborn
 
+- Random Forest
+
+- Tf-IDF vectorizer 
+
 # 📬 Contact
 
 For questions, suggestions, or contributions:
